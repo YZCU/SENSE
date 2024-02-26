@@ -1,7 +1,7 @@
 # SENSE (Submission to Information Fusion )
 ### 📖**Paper**
 
-PyTorch codes for "[SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues](https://ieeexplore.ieee.org/document/10387229)".
+PyTorch codes for "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues".
 
 - Authors: [Yuzeng Chen](https://github.com/YZCU/), [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), [Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/index.htm), [Yi Xiao](https://xy-boy.github.io/), and [Jiang He](https://jianghe96.github.io/)
 - Wuhan University and Central South University
