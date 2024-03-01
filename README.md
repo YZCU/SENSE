@@ -51,7 +51,7 @@ cd tools
 python train.py
 ```
 ### Only Test
-- **Step I.**  We will release the trained [sense model](https://pan.baidu.com/s/1dGNo27TjOxinpTD8Tpovsw) (code:) Please put it to the path of `tools/snapshot/`.
+- **Step I.**  We will release the trained [sense model](https://) (code:) Please put it to the path of `tools/snapshot/`.
 - **Step II.**  Run the `tools/test.py`.
 ```
 cd tools
@@ -59,7 +59,7 @@ python test.py
 ```
 - **Step III.**  The resulted files will be saved in the path of `tools/results/`.
 ### Evaluation
-- **Step I.**  We will release the tracking [results](https://pan.baidu.com/s/19j-bbyl7DdmQ1dJAWRzmGQ) (code: ).
+- **Step I.**  We will release the tracking [results](https://) (code: ).
 - **Step II.**  Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for performance evaluation.
 
 
