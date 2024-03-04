@@ -1,4 +1,4 @@
-# SENSE (Submitted to Information Fusion )
+# SENSE (Under Review)
 ### 📖**Paper**
 
 PyTorch codes for "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues".
