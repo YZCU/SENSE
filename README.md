@@ -82,7 +82,7 @@ If you find our work helpful in your research, please consider citing it. We app
 @ARTICLE{
   author={Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Xiao Yi, and Jiang He},
   journal={}, 
-  title={SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues}, 
+  title={SENSE}, 
   year={},
   volume={},
   number={},
