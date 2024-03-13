@@ -1,7 +1,7 @@
 # SENSE (Under Review)
 ### 📖**Paper**
 
-PyTorch codes for "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues".
+PyTorch codes for "SENSE".
 
 - Authors: [Yuzeng Chen](https://github.com/YZCU/), [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), [Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/index.htm), [Yi Xiao](https://xy-boy.github.io/), [Jiang He](https://jianghe96.github.io/), and [Zhenqi Liu](http://ai.swu.edu.cn/info/1067/2670.htm)
 - Wuhan University and Central South University
