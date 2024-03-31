@@ -1,4 +1,4 @@
-# SENSE (Under Review)
+# SENSE
 ### 📖**Paper**
 
 PyTorch codes for "SENSE".
