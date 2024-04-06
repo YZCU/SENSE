@@ -79,15 +79,16 @@ Email: yuzeng_chen@whu.edu.cn
 ## Citation
 If you find our work helpful in your research, please consider citing it. We appreciate your support!
 ``` 
-@ARTICLE{
-  author={Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Xiao Yi, and Jiang He},
-  journal={}, 
-  title={SENSE}, 
-  year={},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+@article{CHEN2024102395,
+title = {SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues},
+journal = {Information Fusion},
+pages = {102395},
+year = {2024},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102395},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524001738},
+author = {Yuzeng Chen and Qiangqiang Yuan and Yuqi Tang and Yi Xiao and Jiang He and Zhenqi Liu},
+keywords = {Hyperspectral, Object tracking, Self-expression, False modality fusion, Motion awareness}
 }
 ```
 ## Acknowledgement
