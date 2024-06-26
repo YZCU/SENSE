@@ -1,6 +1,6 @@
 # SENSE
 PyTorch codes for "SENSE".
-## 🧩 Install
+## Install
 ```
 git clone https://github.com/YZCU/SENSE.git
 ```
