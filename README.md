@@ -44,9 +44,6 @@ git clone https://github.com/YZCU/SENSE.git
  ![image](/fig/bus2.gif)
  ![image](/fig/student.gif)
  ![image](/fig/car3.gif)
-## Contact
-If you have any questions or suggestions, feel free to contact me.  
-Email: yuzeng_chen@whu.edu.cn
 
 ## Citation
 If you find our work helpful in your research, please consider citing it. We appreciate your support!
@@ -64,6 +61,5 @@ keywords = {Hyperspectral, Object tracking, Self-expression, False modality fusi
 }
 ```
 ## Acknowledgement
-We would like to express our sincere thanks to the excellent projects, e.g., [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/)
-The evaluation benchmark is implemented based on [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/). We would like to express our sincere thanks to the contributors.
+We would like to express our sincere gratitude to the excellent projects, including [SiamCAR](https://github.com/ohhhyeahhh/SiamCAR), [SiamBAN](https://github.com/hqucv/siamban), [JMMAC](https://github.com/zhang-pengyu/JMMAC), [DF](https://github.com/YZCU/DF), [MMF-Net](https://github.com/hscv/MMF-Net), [Siam-HYPER](https://github.com/zhenliuzhenqi/HOT), [SEE-Net](https://github.com/hscv/SEE-Net), [SiamBAG](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG), [Trans-DAT](https://github.com/LianYi233/Trans-DAT), [TSCFW](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-TSCFW), [AD-SiamRPN](https://github.com/yusenwsq/AD-SiamRPN), [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/).These great arts inspire the present work.
 
