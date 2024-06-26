@@ -1,17 +1,13 @@
-# SENSE (Submission to Information Fusion )
+# SENSE
 ### 📖**Paper**
 
 PyTorch codes for "[SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues](https://ieeexplore.ieee.org/document/10387229)".
-
-- Authors: [Yuzeng Chen](https://github.com/YZCU/), [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), [Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/index.htm), [Yi Xiao](https://xy-boy.github.io/), and [Jiang He](https://jianghe96.github.io/)
-- Wuhan University and Central South University
-
 
 ## Abstracts
 > Hyperspectral video offers a wealth of material and motion cues about objects. This advantage proves invaluable in addressing the inherent limitations of generic RGB video tracking in complex scenarios such as illumination variation, background clutter, and fast motion. However, existing hyperspectral tracking methods often prioritize the material cue of objects while overlooking the motion cue contained in sequential frames, resulting in unsatisfactory tracking performance, especially in partial or full occlusion. To this end, this article proposes a novel hyperspectral video object tracker via fusing material and motion cues called SENSE that leverages both material and motion cues for hyperspectral object tracking. First, to fully exploit the material cue, we propose a spectral-spatial self-expression (SSSE) module that adaptively converts the hyperspectral image into complementary false modalities while effectively bridging the band gap. Second, we propose a cross-false modality fusion (CFMF) module that aggregates and enhances the differential-common material features derived from false modalities to arouse material awareness for robust object representations. Furthermore, a motion awareness (MA) module is designed, which consists of an awareness selector to determine the reliability of each cue and a motion prediction scheme to handle abnormal states. Extensive experiments are conducted to demonstrate the effectiveness of the proposed method over state-of-the-arts. The code will be available at https://github.com/YZCU/SENSE.
 
  
-## 🧩 Install
+##  Install
 ```
 git clone https://github.com/YZCU/SENSE.git
 ```
@@ -36,33 +32,6 @@ git clone https://github.com/YZCU/SENSE.git
  > * [HOTC 2020](https://www.hsitracking.com/hot2020/)
  > * [HOTC 2022](https://www.hsitracking.com/hot2022/)
 
-- **Note:** Please download these datasets and put them into train_dataset/dataset_name.
-
-## 🧩 Usage
-### Quick Start
-- **Step I.**  Download the pretrained model: [pretrained model](https://pan.baidu.com/s/1ZW61I7tCe2KTaTwWzaxy0w) (code:) to `pretrained_models/`.
-- **Step II.**  Run the `setup.py` to set the path.
-```
-python setup.py
-```
-- **Step III.**  To train a model, run `train.py` with the desired configs.
-```
-cd tools
-python train.py
-```
-### Only Test
-- **Step I.**  We will release the trained [sense model](https://pan.baidu.com/s/1dGNo27TjOxinpTD8Tpovsw) (code:) Please put it to the path of `tools/snapshot/`.
-- **Step II.**  Run the `tools/test.py`.
-```
-cd tools
-python test.py
-```
-- **Step III.**  The resulted files will be saved in the path of `tools/results/`.
-### Evaluation
-- **Step I.**  We will release the tracking [results](https://pan.baidu.com/s/19j-bbyl7DdmQ1dJAWRzmGQ) (code: ).
-- **Step II.**  Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for performance evaluation.
-
-
 ## 🖼Results
 - ### Comparison with SOTA RGB trackers
  ![image](/fig/table1.jpg)
@@ -82,17 +51,19 @@ Email: yuzeng_chen@whu.edu.cn
 ## Citation
 If you find our work helpful in your research, please consider citing it. We appreciate your support!
 ``` 
-@ARTICLE{
-  author={Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Xiao Yi, and Jiang He},
-  journal={}, 
-  title={SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues}, 
-  year={},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+@article{CHEN2024102395,
+title = {SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues},
+journal = {Information Fusion},
+pages = {102395},
+year = {2024},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102395},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524001738},
+author = {Yuzeng Chen and Qiangqiang Yuan and Yuqi Tang and Yi Xiao and Jiang He and Zhenqi Liu},
+keywords = {Hyperspectral, Object tracking, Self-expression, False modality fusion, Motion awareness}
 }
 ```
 ## Acknowledgement
+We would like to express our sincere thanks to the excellent projects, e.g., [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/)
 The evaluation benchmark is implemented based on [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/). We would like to express our sincere thanks to the contributors.
 
