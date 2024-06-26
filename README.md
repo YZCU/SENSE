@@ -1,5 +1,5 @@
 # SENSE
-PyTorch codes for "SENSE".
+PyTorch codes for "SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues".
 ## Install
 ```
 git clone https://github.com/YZCU/SENSE.git
