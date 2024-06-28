@@ -30,7 +30,6 @@ git clone https://github.com/YZCU/SENSE.git
 
 -  **Hyperspectral training and test datasets:**
  > * [HOTC 2020](https://www.hsitracking.com/hot2020/)
- > * [HOTC 2022](https://www.hsitracking.com/hot2022/)
 
 ## 🖼Results
 - ### Comparison with SOTA RGB trackers
