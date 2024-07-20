@@ -6,7 +6,8 @@ PyTorch codes for "[SENSE: Hyperspectral Video Object Tracker via Fusing Materia
 
 --------------------------------------------------------------------------------------
 
-:running:Keep updating:running:: We have released more results for SENSE on the [hotc20test](https://www.hsitracking.com/), [hotc23val_nir](https://www.hsitracking.com/), [hotc23val_rednir](https://www.hsitracking.com/), [hotc23val_vis](https://www.hsitracking.com/), [hotc24val_nir](https://www.hsitracking.com/), [hotc24val_rednir](https://www.hsitracking.com/), [hotc24val_vis](https://www.hsitracking.com/), [mssot](https://www.sciencedirect.com/science/article/pii/S0924271623002551), and [msvt](https://www.sciencedirect.com/science/article/pii/S0924271621002860) datasets. 
+:running:Keep updating:running:: We have released more results for SENSE on datasets:
+- [hotc20test](https://www.hsitracking.com/), [hotc23val_nir](https://www.hsitracking.com/), [hotc23val_rednir](https://www.hsitracking.com/), [hotc23val_vis](https://www.hsitracking.com/), [hotc24val_nir](https://www.hsitracking.com/), [hotc24val_rednir](https://www.hsitracking.com/), [hotc24val_vis](https://www.hsitracking.com/), [mssot](https://www.sciencedirect.com/science/article/pii/S0924271623002551), and [msvt](https://www.sciencedirect.com/science/article/pii/S0924271621002860) . 
 
 --------------------------------------------------------------------------------------
 
