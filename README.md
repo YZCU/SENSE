@@ -1,11 +1,8 @@
-# SENSE
-### 📖**Paper**
-
-PyTorch codes for "[SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues](https://ieeexplore.ieee.org/document/10387229)".
-
-
 --------------------------------------------------------------------------------------
-
+### [**SENSE**](https://ieeexplore.ieee.org/document/10387229)
+- The implementation for "**SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues**".
+- Information Fusion, 2024.
+--------------------------------------------------------------------------------------
 :running:Keep updating:running:: More detailed tracking results for SENSE have been released.
 - [hotc20test](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
 - [hotc23val_nir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
